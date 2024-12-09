@@ -1,8 +1,6 @@
-## Hi, I'm David O 👋
+# ¡Hola! Soy David
 
-# ¡Hola! Soy [Tu Nombre]
-
-Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente, estoy cursando [tu carrera] en [tu universidad]. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.
+Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente, estoy cursando 1º DAM en I.E.S L'estació (Ontinyent). Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.
 
 ## Sobre Mí
 
