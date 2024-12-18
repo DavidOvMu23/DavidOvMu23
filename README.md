@@ -4,34 +4,17 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
 ## Sobre Mí
 
-- **Nombre**: [Tu Nombre]
-- **Carrera**: [Tu Carrera]
-- **Universidad**: [Tu Universidad]
-- **Intereses**: Desarrollo de software, inteligencia artificial, ciencia de datos, ciberseguridad
-
-## Proyectos
-
-Aquí hay algunos proyectos en los que he trabajado:
-
-### [Nombre del Proyecto 1]
-Descripción breve del proyecto y su propósito.
-
-### [Nombre del Proyecto 2]
-Descripción breve del proyecto y su propósito.
-
-### [Nombre del Proyecto 3]
-Descripción breve del proyecto y su propósito.
+- **Nombre**: David
+- **Edad**: 19
+- **Intereses**: Desarrollo de software, inteligencia artificial, ciencia de datos, ciberseguridad, videojuegos
 
 ## Habilidades
 
-- **Lenguajes de Programación**: Python, Java, C++, JavaScript
-- **Herramientas y Tecnologías**: Git, Docker, Kubernetes, AWS
-- **Frameworks**: React, Node.js, Django
+- **Lenguajes de Programación**: Java , conocimientos básicos de C++ / Arduino
+- **Herramientas y Tecnologías**: Git, Docker, Azure
 
 ## Contacto
 
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)
-- **GitHub**: [tu-usuario-github](https://github.com/tu-usuario-github)
+- **Email**: [david23oviedo@gmail.com](mailto:david23oviedo@gmail.com)
 
-¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme.
+¡Gracias por visitar mi perfil!
