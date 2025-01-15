@@ -6,12 +6,10 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
 - **Nombre**: David
 - **Edad**: 19
-- **Intereses**: Desarrollo de software, inteligencia artificial, ciencia de datos, ciberseguridad, videojuegos
 
 ## Habilidades
 
-- **Lenguajes de Programación**: Java , conocimientos básicos de C++ / Arduino
-- **Herramientas y Tecnologías**: Git, Docker, Azure
+- **Lenguajes de Programación**: Java , conocimientos básicos de C++ / Arduino, Desarrollo de software, ciencia de datos, ciberseguridad
 
 ## Contacto
 
