@@ -11,7 +11,7 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
 - **Lenguajes de Programación**: Java , conocimientos básicos de C++ / Arduino
 - **Desarrollo de software**
-- **ciberseguridad**
+- **Ciberseguridad**
 - **Ciencia de datos**
 
 ## Contacto
