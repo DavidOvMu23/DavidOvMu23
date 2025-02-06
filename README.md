@@ -4,7 +4,7 @@
       <td>
         <img
           src="https://lanyard.kyrie25.me/api/61052265316116074?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
-          alt="Tom's Lanyard Status"
+          alt="David's Status"
         />
       </td>
     </tr>
