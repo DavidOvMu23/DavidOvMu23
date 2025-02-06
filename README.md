@@ -3,7 +3,7 @@
     <tr>
       <td>
         <img
-          src="https://discord.com/users/610522653161160744?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
+          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=DD6387&waveSpotifyColor=304c54&gradient=DD6387-DD6387&imgFit=cover"
           alt="David's Lanyard Status"
         />
       </td>
