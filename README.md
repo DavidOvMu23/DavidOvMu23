@@ -1,24 +1,25 @@
-# ¡Hola! Soy David
+# Hello! I'm David
 
-Soy un estudiante apasionado por la tecnología y el desarrollo de software. Actualmente, estoy cursando 1º DAM en I.E.S L'estació (Ontinyent). Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.
+I am a student passionate about technology and software development. Currently, I'm enrolled in the 1st year of DAM (Development of Applications Multiplatform) at I.E.S L'estació (Ontinyent). I love learning new technologies and applying my knowledge in practical projects.
 
-## Sobre Mí
+## About Me
 
-- **Nombre**: David
-- **Edad**: 19
+- **Name**: David
+- **Age**: 19
 
-## Habilidades
+## Skills
 
-- **Lenguajes de Programación**: Java , conocimientos básicos de C++ / Arduino
-- **Desarrollo de software**
-- **Ciberseguridad**
-- **Ciencia de datos**
+- **Programming Languages**: Java, basic knowledge of C++ / Arduino
+- **Software Development**
+- **Cybersecurity**
+- **Data Science**
 
-## Contacto
+## Contact
 
 - **Email**: [david23oviedo@gmail.com](mailto:david23oviedo@gmail.com)
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
+
 <div align="center">
   <table>
     <tr>
