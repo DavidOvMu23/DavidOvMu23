@@ -26,7 +26,7 @@
       <td>
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&redirect=true" target="_self" title="Open In Spotify">
           <img
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
             style="height: 380px"
           />
         </a>
