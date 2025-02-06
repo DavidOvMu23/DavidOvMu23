@@ -23,6 +23,16 @@ Thanks for visiting my profile!
 
 <!--Spotify and github data-->
 <div align="center">
+  <!--<table>
+    <tr>
+      <td>
+        <img
+          src="https://lanyard.ohitstom.vercel.app/api/1115122225650094080?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
+          alt="Tom's Lanyard Status"
+        />
+      </td>
+    </tr>
+  </table>-->
   <table>
     <tr>
       <td>
