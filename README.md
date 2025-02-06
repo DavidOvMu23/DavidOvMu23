@@ -21,6 +21,17 @@ I am a student passionate about technology and software development. Currently, 
 Thanks for visiting my profile!
 
 <div align="center">
+    <table>
+    <tr>
+      <td>
+        <img
+          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=2094f2&hideSpotify=true&gradient=DD6387-DD6387&imgFit=cover"
+          alt="David's Status"
+        />
+      </td>
+    </tr>
+  </table>
+  
   <table>
     <tr>
       <td>
