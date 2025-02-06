@@ -1,6 +1,6 @@
 # Hello! I'm David
 
-I am a student passionate about technology and software development. Currently, I'm enrolled in the 1st year of DAM (Development of Applications Multiplatform) at I.E.S L'estació (Ontinyent). I love learning new technologies and applying my knowledge in practical projects.
+I am a student. Currently, I'm enrolled in the 1st year of DAM (Development of Applications Multiplatform) at I.E.S L'estació (Ontinyent). I love learning new technologies and applying my knowledge in practical projects.
 
 ## About Me
 
