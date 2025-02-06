@@ -3,17 +3,6 @@
     <tr>
       <td>
         <img
-          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=DD6387&waveSpotifyColor=304c54&gradient=DD6387-DD6387&imgFit=cover"
-          alt="David's Status"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td>
-        <img
           src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=DavidOvMu23&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
         />
