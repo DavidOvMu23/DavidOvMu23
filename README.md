@@ -20,18 +20,9 @@ I am a student passionate about technology and software development. Currently, 
 
 Thanks for visiting my profile!
 
+
+<!--Spotify and github data-->
 <div align="center">
-    <table>
-    <tr>
-      <td>
-        <img
-          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=2094f2&gradient=DD6387-DD6387&imgFit=coveridle&Message=Probably%20doing%20something%20else..."
-          alt="David's Status"
-        />
-      </td>
-    </tr>
-  </table>
-  
   <table>
     <tr>
       <td>
