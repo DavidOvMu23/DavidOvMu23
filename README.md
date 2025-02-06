@@ -42,5 +42,4 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
         </a>
       </td>
     </tr>
-    <tr>
 </div>
