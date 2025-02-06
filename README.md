@@ -7,11 +7,6 @@ I am a student passionate about technology and software development. Currently, 
 - **Name**: David
 - **Age**: 19
 
-## Skills
-
-- **Programming Languages**: Java, basic knowledge of C++
-- **Cybersecurity**
-
 ## Contact
 
 - **Email**: [david23oviedo@gmail.com](mailto:david23oviedo@gmail.com)
