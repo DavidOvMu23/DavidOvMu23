@@ -25,7 +25,7 @@ Thanks for visiting my profile!
     <tr>
       <td>
         <img
-          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=2094f2&hideSpotify=true&gradient=DD6387-DD6387&imgFit=cover"
+          src="https://lanyard.kyrie25.me/api/610522653161160744?bg=transparent&waveColor=2094f2&gradient=DD6387-DD6387&imgFit=coveridle&Message=Probably%20doing%20something%20else...&hideSpotify=true"
           alt="David's Status"
         />
       </td>
