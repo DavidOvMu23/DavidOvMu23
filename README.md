@@ -9,10 +9,8 @@ I am a student passionate about technology and software development. Currently, 
 
 ## Skills
 
-- **Programming Languages**: Java, basic knowledge of C++ / Arduino
-- **Software Development**
+- **Programming Languages**: Java, basic knowledge of C++
 - **Cybersecurity**
-- **Data Science**
 
 ## Contact
 
