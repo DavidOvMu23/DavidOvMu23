@@ -14,7 +14,18 @@ I am a student. Currently, I'm enrolled in the 1st year of DAM (Development of A
 Thanks for visiting my profile!
 
 ###
+<!-- Estadisticas de Github -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidOvMu23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidOvMu23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+<!-- Snake -->
+<img src="https://raw.githubusercontent.com/DavidOvMu23/DavidOvMu23/output/snake.svg" alt="Snake animation" />
+
+###
+<!-- Spotify-->
 <div align="center">
       <td>
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&redirect=true" target="_self" title="Open In Spotify">
