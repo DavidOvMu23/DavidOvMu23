@@ -1,30 +1,73 @@
-# Hello! I'm David
-
-I am a student. Currently, I'm enrolled in the 1st year of DAM (Development of Applications Multiplatform) at I.E.S L'estació (Ontinyent). I love learning new technologies and applying my knowledge in practical projects.
-
-## About Me
-
-- **Name**: David
-- **Age**: 19
-
-## Contact
-
-- **Email**: [david23oviedo@gmail.com](mailto:david23oviedo@gmail.com)
-
-Thanks for visiting my profile!
-
-###
-<!-- Estadisticas de Github -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidOvMu23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidOvMu23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"  />
 </div>
 
 ###
-<!-- Snake -->
-<img src="https://raw.githubusercontent.com/DavidOvMu23/DavidOvMu23/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidOvMu23.DavidOvMu23&"  />
+</div>
 
 ###
+
+<!-- Links-->
+<div align="left">
+  <!--<a href="https://www.youtube.com/@StarLord5-4"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>-->
+  <a href="https://www.instagram.com/dav_om23/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <!--<a href="https://www.twitch.tv/starlord5_4"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /></a>-->
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="mailto:david23oviedo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<!-- About me-->
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm David<br><br>- 🔭 I'm studying DAM (Multi-platform application development).<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I listen to music </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<!-- Lenguage and tools-->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+</div>
+
+###
+###
+
+<!-- Stats-->
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidOvMu23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidOvMu23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <!-- Spotify-->
 <div align="center">
       <td>
