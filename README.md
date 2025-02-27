@@ -10,7 +10,7 @@
 ###
 
 <!-- Links-->
-<div align="left">
+<div align="center">
   <!--<a href="https://www.youtube.com/@StarLord5-4"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>-->
   <a href="https://www.instagram.com/dav_om23/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
   <!--<a href="https://www.twitch.tv/starlord5_4"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /></a>-->
