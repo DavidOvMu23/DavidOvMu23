@@ -67,6 +67,14 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DavidOvMu23/DavidOvMu23/output/snake.svg" alt="Snake animation" />
+
+
+###
 
 <!-- Spotify-->
 <div align="center">
