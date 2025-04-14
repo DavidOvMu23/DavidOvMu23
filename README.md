@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm David<br><br>- 🔭 I'm studying DAM (Multi-platform application development).<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I listen to music </p>
+<p align="left">I'm David<br><br>- 🔭 I'm studying DAM (Multi-platform application development).<br>- 📚 I'm currently learning python<br>- ⚡ En mi tiempo libre escucho música, juego a videojuegos y soy DJ. </p>
 
 ###
 
