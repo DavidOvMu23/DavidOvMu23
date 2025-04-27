@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidOvMu23.DavidOvMu23&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidOvMu23.DavidOvMu23"  />
 </div>
 
 ###
