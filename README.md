@@ -119,7 +119,7 @@ const david = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🎵%20Spotiy%20Vives&fontSize=20&fontAlign=50&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🎵%20Spotiy%20Vibes&fontSize=20&fontAlign=50&fontAlignY=50" />
 
 <div align="center">
       <td>
