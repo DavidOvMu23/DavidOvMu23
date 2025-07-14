@@ -148,9 +148,7 @@ const david = {
 
 </div><br/><br/><br/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🔥%20Lastest%20Projects%20Preview&fontSize=20&fontAlign=50&fontAlignY=50" /><br>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🔥%20Lastest%20Projects%20Preview&fontSize=20&fontAlign=50&fontAlignY=50" /><br>
 
 <div align="center">
 
@@ -162,7 +160,7 @@ const david = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidOvMu23&repo=cool-app&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
-</div>
+</div>-->
 
 <!-- ## 🌈 Support My Work
 
