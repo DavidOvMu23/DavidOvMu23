@@ -4,7 +4,7 @@
 <div align="center">
 
   <div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
-    <img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif" width="180" height="180"/>
+    <img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"/>
   </div>
   <br/>
 
