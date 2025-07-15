@@ -2,35 +2,42 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=11&text=Hey+there!+%F0%9F%91%8B+I'm+David&fontSize=30&animation=fadeIn" />
 
 <div align="center">
-
   <div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
     <img src="https://i.gifer.com/origin/bb/bb5cb8e2e56593e0c84c31d5c54c1abf_w200.gif"/>
-  </div>
-  <br/>
+  </div><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidOvMu23&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/DavidOvMu23?style=for-the-badge&color=orange&labelColor=ce4630)
 ![Stars](https://img.shields.io/github/stars/DavidOvMu23?style=for-the-badge&color=yellow&labelColor=f39c12)
 
-</div>
-<br/>
-<br/>
+</div><br/><br/>
 
 ---
 
+<!-- Sobre Mi -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🌟%20About%20Me%20&fontSize=20&fontAlign=50&fontAlignY=50" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%94%A5;Creative+Problem+Solver+%F0%9F%92%A1;Music+%26+Tech+Enthusiast+%F0%9F%8E%B5;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%94%A5;Creative+Problem+Solver+%F0%9F%92%A1;Music+%26+Tech+Enthusiast+%F0%9F%8E%B5;Always+Learning+%F0%9F%93%9A" />
 </div>
 
 ```typescript
 const david = {
   name: "David Oviedo",
   role: "🎓 Studying DAM (Multi-platform App Development)",
-  passion:"Passionate about IT and new technologies, I always like to learn something new.",
-  hobbies: ["🎵 Music Lover","🎮 Gaming","🎧 DJ Sessions","💻 Coding","⛰️ Nature Enjoyer"],
-  goals: ["Convertirme en desarrollador full-stack","Contribuir a proyectos open source"],
+  passion:
+    "Passionate about IT and new technologies, I always like to learn something new.",
+  hobbies: [
+    "🎵 Music Lover",
+    "🎮 Gaming",
+    "🎧 DJ Sessions",
+    "💻 Coding",
+    "⛰️ Nature Enjoyer",
+  ],
+  goals: [
+    "Convertirme en desarrollador full-stack",
+    "Contribuir a proyectos open source",
+  ],
   motto: "Believe you can and you're halfway there",
   location: "Spain 🇪🇸",
 };
@@ -40,11 +47,13 @@ const david = {
 
 ---
 
+<!-- Conocimientos y tecnologías -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🔥%20Tech%20Arsenal%20&fontSize=20&fontAlign=50&fontAlignY=50" />
 
 <div align="center">
 
 ### 💻 Programming Languages
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -63,11 +72,13 @@ const david = {
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" /> -->
 
 ### 🗄️ Database Mastery
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00000F" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545" />
 
 ### 🛠️ DevOps & Tools
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -79,6 +90,7 @@ const david = {
 </div>
 
 <div align="center">
+
 ### 🚀 Currently Learning
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -90,6 +102,7 @@ const david = {
 
 ---
 
+<!-- Estadisticas Github -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=📊%20GitHub%20Analytics&fontSize=20&fontAlign=50&fontAlignY=50" />
@@ -111,6 +124,7 @@ const david = {
 
 ---
 
+<!-- Spotify -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🎵%20Spotiy%20Vibes&fontSize=20&fontAlign=50&fontAlignY=50" />
 
 <div align="center">
@@ -126,6 +140,7 @@ const david = {
 
 ---
 
+<!-- Metodos de contacto -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🌐%20Connect%20and%20Collaborate&fontSize=20&fontAlign=50&fontAlignY=50" />
 <div align="center">
 
