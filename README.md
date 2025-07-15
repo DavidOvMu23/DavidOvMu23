@@ -25,19 +25,9 @@
 const david = {
   name: "David Oviedo",
   role: "🎓 Studying DAM (Multi-platform App Development)",
-  passion:
-    "Passionate about IT and new technologies, I always like to learn something new.",
-  hobbies: [
-    "🎵 Music Lover",
-    "🎮 Gaming",
-    "🎧 DJ Sessions",
-    "💻 Coding",
-    "⛰️ Nature Enjoyer",
-  ],
-  goals: [
-    "Convertirme en desarrollador full-stack",
-    "Contribuir a proyectos open source",
-  ],
+  passion:"Passionate about IT and new technologies, I always like to learn something new.",
+  hobbies: ["🎵 Music Lover","🎮 Gaming","🎧 DJ Sessions","💻 Coding","⛰️ Nature Enjoyer"],
+  goals: ["Convertirme en desarrollador full-stack","Contribuir a proyectos open source"],
   motto: "Believe you can and you're halfway there",
   location: "Spain 🇪🇸",
 };
