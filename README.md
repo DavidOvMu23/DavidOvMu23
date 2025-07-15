@@ -18,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=40&section=header&text=🌟%20About%20Me%20&fontSize=20&fontAlign=50&fontAlignY=50" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%94%A5;Creative+Problem+Solver+%F0%9F%92%A1;Music+%26+Tech+Enthusiast+%F0%9F%8E%B5;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%94%A5;Creative+Problem+Solver+%F0%9F%92%A1;Music+%26+Tech+Enthusiast+%F0%9F%8E%B5;Always+Learning+%F0%9F%93%9A" />
 </div>
 
 ```typescript
